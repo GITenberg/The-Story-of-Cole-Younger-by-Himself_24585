@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26597
     wikipedia: http://en.wikipedia.org/wiki/Cole_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24585#The-Story-of-Cole-Younger-by-Himself
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-02-12'
 gutenberg_type: Text
