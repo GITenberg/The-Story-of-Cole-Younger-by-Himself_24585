@@ -1,0 +1,39 @@
+_repo: The-Story-of-Cole-Younger-by-Himself_24585
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Younger, Cole
+    alias: Younger, Thomas Coleman
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '26597'
+    url: http://www.gutenberg.org/2009/agents/26597
+    wikipedia: http://en.wikipedia.org/wiki/Cole_Younger
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guerrillas -- West (U.S.) -- Biography'
+- !lcc 'F476'
+- !lcsh 'Younger, Cole, 1844-1916'
+- !lcsh 'Outlaws -- West (U.S.) -- Biography'
+- !lcsh 'West (U.S.) -- History -- 1860-1890'
+- !lcsh 'West (U.S.) -- History -- Civil War, 1861-1865 -- Underground movements'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Underground movements'
+- !lcsh 'West (U.S.) -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'CT'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Bank robberies -- Minnesota -- Northfield -- History -- 19th century'
+title: The Story of Cole Younger, by Himself
+url: http://www.gutenberg.org/ebooks/24585
